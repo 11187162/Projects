@@ -3,7 +3,7 @@
 *** **UNDER CONSTRUCTION** ***
 
 
-This repository will contain the source codes of XX-MAC, EX-MAC, and the QX-MAC protocols. All the proposed schemes were tested with OMNeT++ 5.5.1 using INET 4.2.5 installed in Ubuntu 18.04. You can contact me at 11187162@student.uts.edu.au to get the code.
+This repository will contain the source codes of XX-MAC, EX-MAC, and the QX-MAC protocols. All the proposed schemes were tested with OMNeT++ 5.5.1 using INET 4.2.5 installed in Ubuntu 18.04. For more information please contact me at 11187162@student.uts.edu.au.
 
 
 **What you need**
