@@ -15,6 +15,6 @@ In order to run this project, you will need the following:
 
 **How to run**
 
-This section will provide step-by-step instructions on how to conduct simulation experiments while using the proposed scheme at the MAC layer.
+This section will provide step-by-step instructions on how to conduct simulation experiments using the proposed scheme at the MAC layer.
 
 
